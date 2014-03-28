@@ -10,5 +10,6 @@ Choose Color
 Chris Biagini
 updated Aug. 4, 2005
 Republished via http://techblog.willshouse.com/?p=2222
-Invokes the Apple color picker from anywhere, and prepares some useful information about the color you chose.
+Invokes the Apple color picker from anywhere, and prepares
+some useful information about the color you chose.
 ```
